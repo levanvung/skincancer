@@ -1,0 +1,32 @@
+{
+     "f9c60c377085a6adc955485bc4811d23": {
+          "page_script_hash": "f9c60c377085a6adc955485bc4811d23",
+          "page_name": "HIVE",
+          "icon": "",
+          "script_path": "D:\\CODE\\SKIN\\skincancer\\HIVE.py"
+     },
+     "144da7f08a6ed482b12a889e6429402e": {
+          "page_script_hash": "144da7f08a6ed482b12a889e6429402e",
+          "page_name": "About",
+          "icon": "",
+          "script_path": "D:\\CODE\\SKIN\\skincancer\\pages\\1_About.py"
+     },
+     "1060dd3a9de1348902f6a37f9a0ced23": {
+          "page_script_hash": "1060dd3a9de1348902f6a37f9a0ced23",
+          "page_name": "Article",
+          "icon": "",
+          "script_path": "D:\\CODE\\SKIN\\skincancer\\pages\\2_Article.py"
+     },
+     "18114a94d316c0b9b45ab3b67a7ec12f": {
+          "page_script_hash": "18114a94d316c0b9b45ab3b67a7ec12f",
+          "page_name": "Predict",
+          "icon": "",
+          "script_path": "D:\\CODE\\SKIN\\skincancer\\pages\\Predict.py"
+     },
+     "89935b5a48e5e48669da07e348222e16": {
+          "page_script_hash": "89935b5a48e5e48669da07e348222e16",
+          "page_name": "Profile",
+          "icon": "",
+          "script_path": "D:\\CODE\\SKIN\\skincancer\\pages\\Profile.py"
+     }
+}
